@@ -8,9 +8,8 @@ jQuery(function($) {
         from: 2.50,
         to: 0.91,
         speed: 700,
-        refreshInterval: 70,
-		decimals: 2,
-		separator: ','
+	decimals: 2,
+	separator: ','
     });
 });
 ```
