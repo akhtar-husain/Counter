@@ -1,3 +1,8 @@
+/**
+ * A jQuery plugin to display counter.
+ * @author: Akhtar Husain <dev.akhtarhusain@gmail.com>
+ * @version: 1.0
+ */
 (function($) {
     $.fn.countTo = function(options) {
         options = $.extend({}, $.fn.countTo.defaults, options || {});
